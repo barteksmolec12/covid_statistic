@@ -1,0 +1,8 @@
+.options
+{
+    width: auto;
+     margin-left: -100px; /* połowa szerokości */
+    position: absolute;
+    left: 48%;
+    text-align: center;
+}
